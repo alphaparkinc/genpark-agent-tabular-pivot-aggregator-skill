@@ -1,0 +1,11 @@
+{
+  "name": "genpark-agent-tabular-pivot-aggregator-skill",
+  "version": "1.0.0",
+  "description": "Dynamic schema-less tabular data pivot and grouping engine supporting aggregations",
+  "mcp": {
+    "server": "mcp_server.py",
+    "tools": [
+      "pivot_records"
+    ]
+  }
+}
